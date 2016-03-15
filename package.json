@@ -1,0 +1,24 @@
+{
+  "name": "config-node",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "http-proxy": "^1.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaiomagalhaes/sso-microsoft-config.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaiomagalhaes/sso-microsoft-config/issues"
+  },
+  "homepage": "https://github.com/kaiomagalhaes/sso-microsoft-config#readme",
+  "description": ""
+}
